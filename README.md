@@ -1,6 +1,6 @@
-# invoice_pdf_generate
+# Flutter-PDF-Generator
 
-A new Flutter project.
+This Flutter project allows users to generate a PDF file using static data in JSON format. The application is designed to convert predefined JSON data into a PDF document.
 
 <table>
   <tr>
@@ -10,16 +10,24 @@ A new Flutter project.
  </table>
 
  ![Sample UI](/invoice.png)
+## Features
+
+- Generates a PDF document using static data in JSON format.
+- Allows users to view the generated PDF within the app.
+- Provides an option to download the PDF file for offline use.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter installed on your development machine. If not, follow the [official Flutter installation guide](https://flutter.dev/docs/get-started/install).
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Installation
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/naveenyadav530/Flutter-PDF-Generator.git
+
+
+
